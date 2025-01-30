@@ -13,3 +13,7 @@ Follow the steps in the notebook to run the model and interact with it using the
 - Managing **text and image history** within the chat interface.  
 - Implementing **error handling** when tool calls fail or return no response.  
 - Delaying **image generation** until the user provides final confirmation, instead of generating an image after every response.  
+
+### Example
+![image](https://github.com/user-attachments/assets/86583e1c-adbe-45bf-ae8e-836684b0d224)
+
